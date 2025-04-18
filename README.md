@@ -18,10 +18,14 @@ Type in the following commands into your terminal
 
 git clone https://github.com/apjunior771/MDC-robo-sign-in.git
 
-2. Install required dependencies:
+2. Navigate to project directory by terminal
+
+cd MDC-robo-sign-in
+
+3. Install required dependencies:
 pip install -r requirements.txt
 
-3. Run the application:
+4. Run the application:
 python main.py
 
 ## Credits
