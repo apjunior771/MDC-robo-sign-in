@@ -11,8 +11,11 @@ This is a Python-based sign in application for the AI and Robotics Club. It allo
 - Python 3.6 or higher
 - `pandas` library
 
-## Installation
+## Installation Instructions
+Type in the following commands into your terminal
+
 1. Clone this repository:
+
 git clone https://github.com/apjunior771/MDC-robo-sign-in.git
 
 2. Install required dependencies:
@@ -21,7 +24,7 @@ pip install -r requirements.txt
 3. Run the application:
 python main.py
 
-### Credits
+## Credits
 Alain  
 Erick  
 Felipe  
