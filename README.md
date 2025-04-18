@@ -22,10 +22,10 @@ pip install -r requirements.txt
 python main.py
 
 ### Credits
-Alain  
-Erick  
+Alain 
+Erick
 Felipe  
-Joe  
-Louis  
-Max  
+Joe
+Louis 
+Max
 Unique
